@@ -6,4 +6,4 @@
 
 ## Instructions:
 
-Review the simple database diagram above and provide
+### Review the simple database diagram above. It depicts the schema for a database used to track purchases. Provide feedback on any potential issues. This would include security concerns, functionality issues, design choices, best practices, etc.
