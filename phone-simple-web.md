@@ -7,9 +7,6 @@ https://codepen.io/mgallig/pen/xvYxWj
 
 1. You are provided a form on bottom section of page. The HTML, CSS, and JS for the form are located in the upper section of the page.
 
-
-    $echo hello
-
 2. The form takes three fields:
 
     a. An email (text box)
