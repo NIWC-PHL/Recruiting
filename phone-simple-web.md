@@ -1,9 +1,9 @@
-## Simple Web
+# Simple Web
 
 Link:
 https://codepen.io/mgallig/pen/xvYxWj
 
-# Instructions:
+## Instructions:
 
 1. You are provided a form on bottom section of page. The HTML, CSS, and JS for the form are located in the upper section of the page.
 
