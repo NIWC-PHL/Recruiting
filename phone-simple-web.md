@@ -9,11 +9,11 @@ https://codepen.io/mgallig/pen/xvYxWj
 
 2. The form takes three fields:
 
-  a. An email (text box)
+    a. An email (text box)
   
-  b. An awesome developer field (a true/false checkbox)
+    b. An awesome developer field (a true/false checkbox)
   
-  c. An explanation (text box)
+    c. An explanation (text box)
   
 3. Upon clicking the 'submit' button, the page should alert with the entered values.
 
