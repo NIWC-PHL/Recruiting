@@ -12,7 +12,7 @@ It should:
 * Perform basic CRUD functions - Create, Read, Update, and Delete  
 * Include Name, Address, and Phone Number
 
-## Tips
+### Tips
 
 * You **are not** expected to finish this problem. We are more interested in observing your work process.
 * You **are** expected to have code that compiles and that can perform a meaningful function.  
@@ -20,7 +20,7 @@ It should:
 * Focus on funcitonality first and foremost, elegance/user interface only secondarily.
 * Choose a language/IDE that you are comfortable with. With the limited time, we would like to see more development, less setup/overhead.
 
-## When complete we will discuss next steps
+### When complete we will discuss next steps
 
 * What did you implement?  
 * What do you wish you had time to implement?  
