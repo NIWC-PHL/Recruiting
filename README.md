@@ -6,7 +6,7 @@ In-person interview files begin "in-person-..."
 
 Career fair files begin with "career-fair-..."
 
-Other files follow the same format.
+Other files will follow the same format.
 
 ### General Guidance:
 
