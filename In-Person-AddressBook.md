@@ -1,8 +1,8 @@
 ## Address Book
 
-Objective: Create an address book  
 Platform/Language: Your choice  
 Time limit: ~30 Minutes
+
 
 ### Instructions
 
