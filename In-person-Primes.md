@@ -9,8 +9,8 @@ Create a program that calculates and prints the first 100 prime numbers. As a re
 
 Example of primes:
 
-  2 is divisible by 1, 2. Prime.
-  3 is divisible by 1, 3. Prime.
-  4 is divisible by 1, 2, 4. NOT Prime.
+    2 is divisible by 1, 2. Prime.
+    3 is divisible by 1, 3. Prime.
+    4 is divisible by 1, 2, 4. NOT Prime.
   
 
