@@ -26,7 +26,7 @@ It should:
 * What do you wish you had time to implement?  
 * What would you do if given the rest of the day to complete this project? How about the rest of the week?
 
-### For experienced canidates
+### For experienced candidates
 
 Time limit: Extended to one hour  
 Platform/Language: Specific to the position being applied for.  
