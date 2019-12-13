@@ -12,16 +12,16 @@ Create an application in any language of your choice that does the following:
 2. Generates a set of winning numbers, and check if the ticket is a winner
 3. Repeat step 2 until a winner is found.
 4. Optional:
-   * Display the number of "days" taken to win the lotto
+   * Display the number of "days" taken to win the lotto (each time you generate a new ticket it is considered a day)
    * Display the winning numbers / your ticket
    * Display the odds of winning on any single "day"
    * Add a fourth 'bonus' number where you win a bonus prize (can only be claimed if you win the first three)
   
 
-Example lotto tickets:
+Example lotto tickets (any readable format is acceptable):
 ```
 05-18-20
-13-15-19
+13 15 19
 1-4-17
 ```
 
